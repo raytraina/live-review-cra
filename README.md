@@ -1,10 +1,16 @@
 # Getting Started
 
-## Important Script
+### Install Dependencies
 
-In the project directory, you can run:
+To install dependencies listed inside of the `package.json` file, you can run from the project directory once you have cloned this project:
 
-### `npm start`
+`$ npm install`
+
+### Important Script
+
+In the same project directory, you can run:
+
+`$ npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -13,7 +19,7 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
-## Files to take note of when working with `create-react-app`:
+### Files to take note of when working with `create-react-app`:
 
 - `package.json` => you can modify dependencies and build scripts here, but we don't need to edit this file yet
 
